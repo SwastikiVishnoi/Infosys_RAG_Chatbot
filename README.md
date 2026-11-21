@@ -1,5 +1,6 @@
 # Infosys Annual Report Q&A (RAG)
 **Live demo:** https://infosysragchatbot-hjrousbkkcqwkoutdrxbm2.streamlit.app/
+
 A question-answering system over the Infosys Integrated Annual Report 2025-26 (383 pages). It finds the relevant passages with hybrid search, asks Gemini to answer using only those passages, cites the PDF pages used, and says "I could not find this in the report" when the answer is not there.
 
 ## How it works
