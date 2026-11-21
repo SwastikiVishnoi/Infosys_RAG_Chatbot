@@ -12,6 +12,8 @@ A question-answering system over the Infosys Integrated Annual Report 2025-26 (3
 5. **Answer** with Gemini, instructed to use only the supplied text and to cite page numbers.
 6. **Streamlit app** shows the answer, the cited pages and the evidence passages.
 
+   ![App screenshot](RAG.png)
+
 ## Evaluation
 
 I wrote a test set of 17 questions with known answers and page numbers (verified in the PDF), plus 4 questions that are not in the report. I changed one thing at a time and re-ran the same test.
